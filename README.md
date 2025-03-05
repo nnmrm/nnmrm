@@ -12,7 +12,7 @@
  ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
  ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
  ![](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
- ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+ ![](https://img.shields.io/badge/Kotlin-a97bff?style=flat-square&logo=Kotlin&logoColor=white)
   <br/>
  
  <h4 align="center">🛠 </h4>
