@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8fe078&height=150&text=welcome!&fontSize=40&descSize=15&fontColor=cee6c8&descAlign=33&descAlignY=36&desc=nnmrm's%20github&fontAlign=16&fontAlignY=32&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8fe078&height=150&text=welcome!&fontSize=40&descSize=15&fontColor=ffffff&descAlign=33&descAlignY=36&desc=nnmrm's%20github&fontAlign=16&fontAlignY=32&animation=fadeIn)
 
 <!--![nnmrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=nnmrm&show_icons=true&theme=transparent)-->
 <div align="center">
@@ -12,6 +12,8 @@
  ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
  ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
  ![](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+ ![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+  <br/>
  
  <h4 align="center">🛠 </h4>
  
